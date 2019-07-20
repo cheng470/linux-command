@@ -8,8 +8,8 @@ Record command in linux
 ## 1 使用命令帮助
 
 [man](commands/man.md)
-[whatis](commands/whatis)
-[info](commands/info)
+[whatis](commands/whatis.md)
+[info](commands/info.md)
 
 
 # 笔记
