@@ -7,7 +7,7 @@ Record command in linux
 
 ## 1 使用命令帮助
 
-[man](./commonds/man.md)
+[man](commands/man.md)
 [whatis](commands/whatis)
 [info](commands/info)
 
