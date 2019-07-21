@@ -10,6 +10,8 @@ Record command in linux
 - [man](commands/man.md)
 - [whatis](commands/whatis.md)
 - [info](commands/info.md)
+- [which](commands/which.md)
+- [whereis](commands/whereis.md)
 
 ## 文件管理
 
