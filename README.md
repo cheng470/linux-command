@@ -15,6 +15,11 @@ Record command in linux
 
 ## 文件管理
 
+- [cd](commands/cd.md)
+- [ls](commands/ls.md)
+- [mv](commands/mv.md)
+- [cp](commands/cp.md)
+
 ## 时间日期
 
 - [date](commands/date.md)
@@ -22,9 +27,17 @@ Record command in linux
 
 ## 文本处理
 
+- [cat](commands/cat.md)
+- [head](commands/head.md)
+- [tail](commands/tail.md)
+- [sed](commands/sed.md)
+
 ## 磁盘管理
 
 ## 进程管理
+
+- [ps](commands/ps.md)
+- [top](commands/top.md)
 
 ## 性能监控
 
